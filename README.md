@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This Project is to craete form using REACTJS frontend Library.
+This Project is to create form using REACTJS frontend Library.
 
 # Project Setup Steps -
 
